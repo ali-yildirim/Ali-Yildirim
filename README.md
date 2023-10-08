@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">I'm a senior year industrial engineering student at Boğaziçi University</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tools for data manipulation:
+  * Numpy
+  * Pandas:</h3>
 <p align="left">
 </p>
 
