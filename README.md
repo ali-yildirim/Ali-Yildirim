@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Packages and libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Scikit-learn<br>* Tensorflow<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* MySQL<br>* Microsoft SQL Server<br>
+<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Packages and libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Scikit-learn<br>* Tensorflow<br>* BeautifulSoup<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* MySQL<br>* Microsoft SQL Server<br>
 
 ###
 
