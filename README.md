@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo.png" alt="plotly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="plotly" width="40" height="40"/>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img width="12" />
