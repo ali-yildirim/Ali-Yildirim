@@ -42,7 +42,7 @@
 </div>
 
 ###
-<h2 align="left">For my credentials: https://www.credly.com/users/ali-yildirim.7b3d6cc2</h2>
+<p align="left">For my credentials: https://www.credly.com/users/ali-yildirim.7b3d6cc2</p3>
 
 
 
