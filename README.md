@@ -39,7 +39,10 @@
 </div>
 
 ###
-<a href=" https://www.credly.com/users/ali-yildirim.7b3d6cc2/">my coursera IBM credentials</a>
+
+<h2 align="left">Credentials&Certificates</h2>
+
+<a href="https://www.credly.com/users/ali-yildirim.7b3d6cc2">IBM Data Science Professional Certificate</a>
 
 <a href="https://verified.sertifier.com/en/verify/73250904282818/">BUYAK Data&Analytics Summit'23</a>
 
