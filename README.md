@@ -43,7 +43,7 @@
 <h2 align="left">Credentials&Certificates</h2>
 
 <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/">Udemy Machine Learning & Data Science Certificate2023</a>
-Complete Machine Learning & Data Science Bootcamp 2023
+
 <a href="https://www.credly.com/users/ali-yildirim.7b3d6cc2">IBM Data Science Professional Certificate</a>
 
 <a href="https://verified.sertifier.com/en/verify/73250904282818/">BUYAK Data&Analytics Summit'23</a>
