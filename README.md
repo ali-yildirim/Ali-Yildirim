@@ -42,7 +42,7 @@
 
 
 
-<h2 align="left">Credentials&Certificates</h2>
+<h2 align="left">Credentials & Certificates</h2>
 
 <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/">Udemy Machine Learning & Data Science Certificate</a>
 
