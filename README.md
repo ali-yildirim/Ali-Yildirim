@@ -42,7 +42,9 @@
 
 <h2 align="left">Credentials&Certificates</h2>
 
-<a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/">Udemy Machine Learning & Data Science Certificate2023</a>
+<a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/">Udemy Machine Learning & Data Science Certificate</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/33aaa5e4-4765-48d0-97d8-d866b4faa9c5/badges/5160703">Introduction to Data Analytics on Google Cloud</a>
 
 <a href="https://www.credly.com/users/ali-yildirim.7b3d6cc2">IBM Data Science Professional Certificate</a>
 
