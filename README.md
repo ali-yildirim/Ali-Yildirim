@@ -46,7 +46,7 @@
 
 <h2 align="left">Credentials & Certificates</h2>
 
-Visit the following for all my certificates:
+Visit my LinkedIn for all my certificates:
 
 https://www.linkedin.com/in/ali-k-yildirim/details/certifications/
 
