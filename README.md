@@ -1,6 +1,3 @@
-
-###
-
 <p align="left"><br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
 
 ###
