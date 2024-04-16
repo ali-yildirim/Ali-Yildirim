@@ -1,16 +1,7 @@
-<h1 align="left">👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Ali.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
+<p align="left"><br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
 
 ###
 
