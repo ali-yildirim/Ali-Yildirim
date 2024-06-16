@@ -1,5 +1,5 @@
 ###
-<p align="left">Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>Database Experience:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
+<p align="left">Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy, Pandas<br>* Matplotlib, Seaborn, Plotly<br>* Scikit-learn, Tensorflow, Keras<br>* BeautifulSoup<br><br>Database Experience:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
 
 ###
 
